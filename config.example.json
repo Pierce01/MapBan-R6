@@ -1,0 +1,15 @@
+{
+    "prefix": "--",
+    "token": "",
+    "maps": [
+        "CHALET",
+        "KAFE",
+        "COASTLINE",
+        "OREGON", 
+        "BANK", 
+        "VILLA",
+        "CLUBHOUSE"
+    ],
+    "log_channel": "CHANNEL_ID",
+    "intents": ["allNonPrivileged"]
+}
